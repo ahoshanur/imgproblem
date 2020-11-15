@@ -1,0 +1,11 @@
+* {
+    font-family: 'Hind Siliguri', sans-serif;
+}
+img {
+    width: 100%;
+}
+.logo {
+    background: url(https://i.ibb.co/JnHqkd9/begloo-logo-top-main.png) no-repeat center center;
+    height: 100px;
+    background-size: contain;
+}
